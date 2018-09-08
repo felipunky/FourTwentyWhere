@@ -31,7 +31,7 @@ for zone in atz:
     atznow = atznow.split(":")
     timeNowSt = timeNowSt.split(":")
 
-    if atznow[0] == "04" and atznow[1] == "20":
+    if atznow[0] == "21" and atznow[1] == "58":
 
         fourtwenty = "420 in: " + tz
 
